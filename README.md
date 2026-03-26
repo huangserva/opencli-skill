@@ -353,9 +353,4 @@ If this skill helps you, follow me for more AI tools and tips.
 
 如果这个 Skill 对你有帮助，欢迎关注我获取更多 AI 工具分享：
 
-- **X (Twitter)**: [@vista8](https://x.com/vista8)
-- **微信公众号「向阳乔木推荐看」**:
-
-<p align="center">
-  <img src="https://github.com/joeseesun/terminal-boost/raw/main/assets/wechat-qr.jpg?raw=true" alt="向阳乔木推荐看公众号二维码" width="300">
-</p>
+- **X (Twitter)**: [@vista8](https://x.com/servasyy_ai)
