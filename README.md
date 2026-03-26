@@ -353,4 +353,4 @@ If this skill helps you, follow me for more AI tools and tips.
 
 如果这个 Skill 对你有帮助，欢迎关注我获取更多 AI 工具分享：
 
-- **X (Twitter)**: [@vista8](https://x.com/servasyy_ai)
+- **X (Twitter)**: [@servasyy_ai](https://x.com/servasyy_ai)
